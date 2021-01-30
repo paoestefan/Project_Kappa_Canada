@@ -1,0 +1,68 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"New motor vehicle sales",20100001,079-0003,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010000101",1,"CURRENT - a cube available to the public and that is current",Monthly,1946-01-01,2020-11-01,5
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+1,Geography,,
+2,"Vehicle type",,
+3,"Origin of manufacture",,
+4,Sales,,
+5,"Seasonal adjustment",5,
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+1,Canada,[11124],1,,,,
+1,"Newfoundland and Labrador",[10],2,1,,,
+1,"Prince Edward Island",[11],3,1,,,
+1,"Nova Scotia",[12],4,1,,,
+1,"New Brunswick",[13],5,1,,,
+1,Quebec,[24],6,1,,,
+1,Ontario,[35],7,1,,,
+1,Manitoba,[46],8,1,,,
+1,Saskatchewan,[47],9,1,,,
+1,Alberta,[48],10,1,,,
+1,"British Columbia and the Territories",,11,1,,2,
+2,"Total, new motor vehicles",,1,,,,
+2,"Passenger cars",,2,1,,,
+2,Trucks,,3,1,,3,
+3,"Total, country of manufacture",,1,,,,
+3,"North America",,2,1,,,
+3,"Total, overseas",,3,1,,4,
+3,Japan,,4,3,,,
+3,"Other countries",,5,3,,,
+4,Units,,1,,,,
+4,Dollars,,2,,,,
+5,Unadjusted,,1,,,,
+5,"Seasonally adjusted",,2,,t,,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period",..
+"less than the limit of detection",<LOD
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded",0s
+"data quality: excellent",A
+"data quality: very good",B
+"data quality: good",C
+"data quality: acceptable",D
+"use with caution",E
+"too unreliable to be published",F
+"not applicable",...
+preliminary,p
+revised,r
+"suppressed to meet the confidentiality requirements of the Statistics Act",x
+terminated,t
+
+"Survey Code","Survey Name"
+2402,"Monthly New Motor Vehicle Sales Survey"
+
+"Subject Code","Subject Name"
+20,"Retail and wholesale"
+
+"Note ID",Note
+1,"Prior to 1953, data for Canadian and United States manufactured vehicles and overseas manufactured vehicles are not segregated."
+2,"Includes Yukon, Northwest Territories and Nunavut."
+3,"Trucks include minivans, sport-utility vehicles, light and heavy trucks, vans and buses."
+4,"Includes Japan and other countries."
+5,"Seasonally adjusted data for the New Motor Vehicle Sales survey are available for the period between January 1991 to February 2012."
+
+"Correction ID","Correction Date","Correction Note"
+
+
