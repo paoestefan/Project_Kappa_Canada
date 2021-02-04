@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>Basic Map</title>
+    
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""/>
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+</head>
+<body>
+  <!-- Sección de toda la pagina -->
+  <div class="container"> 
+    <!-- Sección del Mapa -->
+    <div class="row">
+      <div class="col">
+        <div id="map"></div>
+      </div>
+    </div>
+    <!-- Sección de 1 renglon y 2 columnas para colocar los combobox de Fecha -->
+
+    <div class="row justify-content-center">
+      <div class="col-3">
+        <div class="card" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Date From</h5>
+            <select class="form-select" aria-label="Default select example">
+              <option selected>Jan</option>
+              <option value="1">Feb</option>
+              <option value="2">Mar</option>
+              <option value="3">Apr</option>
+            </select>
+            <select class="form-select" aria-label="Default select example">
+              <option selected>2019</option>
+              <option value="1">2020</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="col-2">
+        <div class="card" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Date To</h5>
+            <select class="form-select" aria-label="Default select example">
+              <option selected>Jan</option>
+              <option value="1">Feb</option>
+              <option value="2">Mar</option>
+              <option value="3">Apr</option>
+            </select>
+            <select class="form-select" aria-label="Default select example">
+              <option selected>2019</option>
+              <option value="1">2020</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Sección de 1 renglon y 4 columnas para colocar el resto de los combos -->
+    <div class="row m-4">
+      <div class="col">
+        <div class="card" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Province</h5>
+            <select class="form-select" aria-label="Default select example">
+              <option selected>Canada</option>
+              <option value="1">Alberta</option>
+              <option value="2">Ontario</option>
+              <option value="3">Quebec</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Vehicle Type</h5>
+            <select class="form-select" aria-label="Default select example">
+              <option selected>All types</option>
+              <option value="1">Canada</option>
+              <option value="2">Japan</option>
+              <option value="3">Others</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Origin Manufacture</h5>
+            <select class="form-select" aria-label="Default select example">
+              <option selected>Canada</option>
+              <option value="1">USA</option>
+              <option value="2">Japan</option>
+              <option value="3">Others</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Units</h5>
+            <select class="form-select" aria-label="Default select example">
+              <option selected>Dollas</option>
+              <option value="1">Items</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Sección del renglon 2 donde pondremos la tabla -->
+    <div class="row m-1">
+      <!-- Sección de la columna 1 donde va la tabla -->
+      <div class="col" style="width: 50rem;">
+        <!-- Sección de la tabla -->
+        <table class="table">
+          <thead>
+            <h2> Table Canada Vehicles Sales</h2>
+            <h5> From: July,2020 to: November,2020</h3><br>
+            <tr>
+              <th scope="col">Province</th>
+              <th scope="col">Vehicle Type</th>
+              <th scope="col">Origin Manufact</th>
+              <th scope="col">Units</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Quebec</td>
+              <td>Passenger Car</td>
+              <td>Canada</td>
+              <td>$82,300</td>
+            </tr>
+            <tr>
+              <td>Quebec</td>
+              <td>Passenger Car</td>
+              <td>Japan</td>
+              <td>$12,300</td>
+            </tr>
+            <tr>
+              <td>Quebec</td>
+              <td>Passenger Car</td>
+              <td>Others</td>
+              <td>$22,670</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+
+
+</body>
+
+<!-- API key -->
+<script type="text/javascript" src="config.js"></script>
+<!-- JS -->
+<script type="text/javascript" src="logic.js"></script>
+</html>
