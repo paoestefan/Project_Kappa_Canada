@@ -1,0 +1,721 @@
+﻿REF_DATE,GEO,Vehicle type,Origin of manufacture, Sales in dollars ,Sales in units
+2019-12,Newfoundland and Labrador,Passenger cars,North America,3639.00,140
+2019-12,Newfoundland and Labrador,Passenger cars,Total overseas,2584.00,75
+2019-12,Newfoundland and Labrador,Passenger cars,Japan,0.00,0
+2019-12,Newfoundland and Labrador,Passenger cars,Other countries,0.00,0
+2019-12,Newfoundland and Labrador,Trucks,North America,43738.00,945
+2019-12,Newfoundland and Labrador,Trucks,Total overseas,7809.00,219
+2019-12,Prince Edward Island,Passenger cars,North America,1790.00,70
+2019-12,Prince Edward Island,Passenger cars,Total overseas,629.00,23
+2019-12,Prince Edward Island,Passenger cars,Japan,0.00,0
+2019-12,Prince Edward Island,Passenger cars,Other countries,0.00,0
+2019-12,Prince Edward Island,Trucks,North America,13310.00,303
+2019-12,Prince Edward Island,Trucks,Total overseas,2745.00,78
+2019-12,Nova Scotia,Passenger cars,North America,9644.00,339
+2019-12,Nova Scotia,Passenger cars,Total overseas,6909.00,192
+2019-12,Nova Scotia,Passenger cars,Japan,1379.00,45
+2019-12,Nova Scotia,Passenger cars,Other countries,5531.00,147
+2019-12,Nova Scotia,Trucks,North America,71615.00,1550
+2019-12,Nova Scotia,Trucks,Total overseas,19501.00,515
+2019-12,New Brunswick,Passenger cars,North America,5895.00,221
+2019-12,New Brunswick,Passenger cars,Total overseas,4474.00,128
+2019-12,New Brunswick,Passenger cars,Japan,1426.00,48
+2019-12,New Brunswick,Passenger cars,Other countries,3048.00,80
+2019-12,New Brunswick,Trucks,North America,68903.00,1384
+2019-12,New Brunswick,Trucks,Total overseas,14601.00,395
+2019-12,Quebec,Passenger cars,North America,94067.00,3334
+2019-12,Quebec,Passenger cars,Total overseas,103881.00,2637
+2019-12,Quebec,Passenger cars,Japan,21475.00,691
+2019-12,Quebec,Passenger cars,Other countries,82406.00,1946
+2019-12,Quebec,Trucks,North America,650969.00,12156
+2019-12,Quebec,Trucks,Total overseas,203132.00,5114
+2019-12,Ontario,Passenger cars,North America,205529.00,6807
+2019-12,Ontario,Passenger cars,Total overseas,179768.00,4093
+2019-12,Ontario,Passenger cars,Japan,34050.00,1049
+2019-12,Ontario,Passenger cars,Other countries,145718.00,3044
+2019-12,Ontario,Trucks,North America,1538468.00,31583
+2019-12,Ontario,Trucks,Total overseas,374253.00,8494
+2019-12,Manitoba,Passenger cars,North America,8058.00,275
+2019-12,Manitoba,Passenger cars,Total overseas,7273.00,175
+2019-12,Manitoba,Passenger cars,Japan,1421.00,44
+2019-12,Manitoba,Passenger cars,Other countries,5852.00,131
+2019-12,Manitoba,Trucks,North America,128433.00,2490
+2019-12,Manitoba,Trucks,Total overseas,18361.00,448
+2019-12,Saskatchewan,Passenger cars,North America,5604.00,184
+2019-12,Saskatchewan,Passenger cars,Total overseas,5792.00,129
+2019-12,Saskatchewan,Passenger cars,Japan,1148.00,36
+2019-12,Saskatchewan,Passenger cars,Other countries,4644.00,93
+2019-12,Saskatchewan,Trucks,North America,130734.00,2455
+2019-12,Saskatchewan,Trucks,Total overseas,13463.00,311
+2019-12,Alberta,Passenger cars,North America,28601.00,860
+2019-12,Alberta,Passenger cars,Total overseas,25063.00,548
+2019-12,Alberta,Passenger cars,Japan,4913.00,160
+2019-12,Alberta,Passenger cars,Other countries,20150.00,388
+2019-12,Alberta,Trucks,North America,576376.00,10424
+2019-12,Alberta,Trucks,Total overseas,86550.00,1932
+2019-12,British Columbia and the Territories,Passenger cars,North America,41182.00,1317
+2019-12,British Columbia and the Territories,Passenger cars,Total overseas,53047.00,1130
+2019-12,British Columbia and the Territories,Passenger cars,Japan,9605.00,302
+2019-12,British Columbia and the Territories,Passenger cars,Other countries,43442.00,828
+2019-12,British Columbia and the Territories,Trucks,North America,396798.00,7724
+2019-12,British Columbia and the Territories,Trucks,Total overseas,130135.00,2848
+2020-01,Newfoundland and Labrador,Passenger cars,North America,3297.00,128
+2020-01,Newfoundland and Labrador,Passenger cars,Total overseas,2014.00,67
+2020-01,Newfoundland and Labrador,Passenger cars,Japan,431.00,14
+2020-01,Newfoundland and Labrador,Passenger cars,Other countries,1583.00,53
+2020-01,Newfoundland and Labrador,Trucks,North America,44828.00,1024
+2020-01,Newfoundland and Labrador,Trucks,Total overseas,5371.00,146
+2020-01,Prince Edward Island,Passenger cars,North America,1422.00,60
+2020-01,Prince Edward Island,Passenger cars,Total overseas,814.00,26
+2020-01,Prince Edward Island,Passenger cars,Japan,193.00,6
+2020-01,Prince Edward Island,Passenger cars,Other countries,622.00,20
+2020-01,Prince Edward Island,Trucks,North America,12056.00,292
+2020-01,Prince Edward Island,Trucks,Total overseas,2078.00,63
+2020-01,Nova Scotia,Passenger cars,North America,10351.00,401
+2020-01,Nova Scotia,Passenger cars,Total overseas,7148.00,201
+2020-01,Nova Scotia,Passenger cars,Japan,1668.00,56
+2020-01,Nova Scotia,Passenger cars,Other countries,5481.00,145
+2020-01,Nova Scotia,Trucks,North America,73454.00,1633
+2020-01,Nova Scotia,Trucks,Total overseas,16868.00,450
+2020-01,New Brunswick,Passenger cars,North America,7426.00,287
+2020-01,New Brunswick,Passenger cars,Total overseas,3529.00,105
+2020-01,New Brunswick,Passenger cars,Japan,1072.00,33
+2020-01,New Brunswick,Passenger cars,Other countries,2457.00,72
+2020-01,New Brunswick,Trucks,North America,75273.00,1588
+2020-01,New Brunswick,Trucks,Total overseas,12280.00,351
+2020-01,Quebec,Passenger cars,North America,110837.00,4133
+2020-01,Quebec,Passenger cars,Total overseas,85467.00,2296
+2020-01,Quebec,Passenger cars,Japan,20179.00,631
+2020-01,Quebec,Passenger cars,Other countries,65287.00,1665
+2020-01,Quebec,Trucks,North America,644013.00,12816
+2020-01,Quebec,Trucks,Total overseas,195796.00,5153
+2020-01,Ontario,Passenger cars,North America,204389.00,6938
+2020-01,Ontario,Passenger cars,Total overseas,139846.00,3155
+2020-01,Ontario,Passenger cars,Japan,24609.00,682
+2020-01,Ontario,Passenger cars,Other countries,115237.00,2473
+2020-01,Ontario,Trucks,North America,1450060.00,30445
+2020-01,Ontario,Trucks,Total overseas,307921.00,7093
+2020-01,Manitoba,Passenger cars,North America,9119.00,345
+2020-01,Manitoba,Passenger cars,Total overseas,7254.00,193
+2020-01,Manitoba,Passenger cars,Japan,999.00,30
+2020-01,Manitoba,Passenger cars,Other countries,6255.00,163
+2020-01,Manitoba,Trucks,North America,123300.00,2461
+2020-01,Manitoba,Trucks,Total overseas,17493.00,449
+2020-01,Saskatchewan,Passenger cars,North America,6595.00,238
+2020-01,Saskatchewan,Passenger cars,Total overseas,4158.00,112
+2020-01,Saskatchewan,Passenger cars,Japan,882.00,25
+2020-01,Saskatchewan,Passenger cars,Other countries,3277.00,87
+2020-01,Saskatchewan,Trucks,North America,121771.00,2472
+2020-01,Saskatchewan,Trucks,Total overseas,12286.00,306
+2020-01,Alberta,Passenger cars,North America,29076.00,964
+2020-01,Alberta,Passenger cars,Total overseas,22850.00,538
+2020-01,Alberta,Passenger cars,Japan,4911.00,166
+2020-01,Alberta,Passenger cars,Other countries,17939.00,372
+2020-01,Alberta,Trucks,North America,585432.00,11344
+2020-01,Alberta,Trucks,Total overseas,82583.00,1891
+2020-01,British Columbia and the Territories,Passenger cars,North America,41658.00,1343
+2020-01,British Columbia and the Territories,Passenger cars,Total overseas,60137.00,1307
+2020-01,British Columbia and the Territories,Passenger cars,Japan,10959.00,330
+2020-01,British Columbia and the Territories,Passenger cars,Other countries,49178.00,977
+2020-01,British Columbia and the Territories,Trucks,North America,397357.00,7901
+2020-01,British Columbia and the Territories,Trucks,Total overseas,96191.00,2130
+2020-02,Newfoundland and Labrador,Passenger cars,North America,4247.00,172
+2020-02,Newfoundland and Labrador,Passenger cars,Total overseas,2426.00,70
+2020-02,Newfoundland and Labrador,Passenger cars,Japan,0.00,0
+2020-02,Newfoundland and Labrador,Passenger cars,Other countries,0.00,0
+2020-02,Newfoundland and Labrador,Trucks,North America,54532.00,1245
+2020-02,Newfoundland and Labrador,Trucks,Total overseas,9583.00,279
+2020-02,Prince Edward Island,Passenger cars,North America,1533.00,61
+2020-02,Prince Edward Island,Passenger cars,Total overseas,752.00,31
+2020-02,Prince Edward Island,Passenger cars,Japan,0.00,0
+2020-02,Prince Edward Island,Passenger cars,Other countries,0.00,0
+2020-02,Prince Edward Island,Trucks,North America,12117.00,288
+2020-02,Prince Edward Island,Trucks,Total overseas,3149.00,96
+2020-02,Nova Scotia,Passenger cars,North America,11978.00,464
+2020-02,Nova Scotia,Passenger cars,Total overseas,5582.00,173
+2020-02,Nova Scotia,Passenger cars,Japan,1126.00,39
+2020-02,Nova Scotia,Passenger cars,Other countries,4456.00,134
+2020-02,Nova Scotia,Trucks,North America,74465.00,1689
+2020-02,Nova Scotia,Trucks,Total overseas,19142.00,561
+2020-02,New Brunswick,Passenger cars,North America,8097.00,305
+2020-02,New Brunswick,Passenger cars,Total overseas,4190.00,130
+2020-02,New Brunswick,Passenger cars,Japan,817.00,29
+2020-02,New Brunswick,Passenger cars,Other countries,3373.00,101
+2020-02,New Brunswick,Trucks,North America,72171.00,1518
+2020-02,New Brunswick,Trucks,Total overseas,13008.00,380
+2020-02,Quebec,Passenger cars,North America,104289.00,3869
+2020-02,Quebec,Passenger cars,Total overseas,103163.00,2812
+2020-02,Quebec,Passenger cars,Japan,27297.00,932
+2020-02,Quebec,Passenger cars,Other countries,75866.00,1880
+2020-02,Quebec,Trucks,North America,727113.00,14004
+2020-02,Quebec,Trucks,Total overseas,202795.00,5397
+2020-02,Ontario,Passenger cars,North America,270527.00,8701
+2020-02,Ontario,Passenger cars,Total overseas,153140.00,3423
+2020-02,Ontario,Passenger cars,Japan,32863.00,854
+2020-02,Ontario,Passenger cars,Other countries,120278.00,2569
+2020-02,Ontario,Trucks,North America,1621210.00,35077
+2020-02,Ontario,Trucks,Total overseas,330050.00,7822
+2020-02,Manitoba,Passenger cars,North America,11407.00,415
+2020-02,Manitoba,Passenger cars,Total overseas,5575.00,151
+2020-02,Manitoba,Passenger cars,Japan,1340.00,38
+2020-02,Manitoba,Passenger cars,Other countries,4234.00,113
+2020-02,Manitoba,Trucks,North America,134763.00,2754
+2020-02,Manitoba,Trucks,Total overseas,17479.00,471
+2020-02,Saskatchewan,Passenger cars,North America,6937.00,236
+2020-02,Saskatchewan,Passenger cars,Total overseas,3618.00,88
+2020-02,Saskatchewan,Passenger cars,Japan,677.00,19
+2020-02,Saskatchewan,Passenger cars,Other countries,2941.00,69
+2020-02,Saskatchewan,Trucks,North America,140288.00,2825
+2020-02,Saskatchewan,Trucks,Total overseas,14036.00,376
+2020-02,Alberta,Passenger cars,North America,31759.00,1049
+2020-02,Alberta,Passenger cars,Total overseas,21311.00,546
+2020-02,Alberta,Passenger cars,Japan,5811.00,196
+2020-02,Alberta,Passenger cars,Other countries,15501.00,350
+2020-02,Alberta,Trucks,North America,631368.00,12098
+2020-02,Alberta,Trucks,Total overseas,77754.00,1794
+2020-02,British Columbia and the Territories,Passenger cars,North America,56463.00,1785
+2020-02,British Columbia and the Territories,Passenger cars,Total overseas,55364.00,1279
+2020-02,British Columbia and the Territories,Passenger cars,Japan,14590.00,434
+2020-02,British Columbia and the Territories,Passenger cars,Other countries,40774.00,845
+2020-02,British Columbia and the Territories,Trucks,North America,472945.00,9336
+2020-02,British Columbia and the Territories,Trucks,Total overseas,108880.00,2454
+2020-03,Newfoundland and Labrador,Passenger cars,North America,4029.00,158
+2020-03,Newfoundland and Labrador,Passenger cars,Total overseas,2560.00,80
+2020-03,Newfoundland and Labrador,Passenger cars,Japan,0.00,0
+2020-03,Newfoundland and Labrador,Passenger cars,Other countries,0.00,0
+2020-03,Newfoundland and Labrador,Trucks,North America,43449.00,941
+2020-03,Newfoundland and Labrador,Trucks,Total overseas,8138.00,238
+2020-03,Prince Edward Island,Passenger cars,North America,1512.00,58
+2020-03,Prince Edward Island,Passenger cars,Total overseas,343.00,12
+2020-03,Prince Edward Island,Passenger cars,Japan,0.00,0
+2020-03,Prince Edward Island,Passenger cars,Other countries,0.00,0
+2020-03,Prince Edward Island,Trucks,North America,8746.00,194
+2020-03,Prince Edward Island,Trucks,Total overseas,1281.00,37
+2020-03,Nova Scotia,Passenger cars,North America,10328.00,383
+2020-03,Nova Scotia,Passenger cars,Total overseas,5108.00,158
+2020-03,Nova Scotia,Passenger cars,Japan,1316.00,43
+2020-03,Nova Scotia,Passenger cars,Other countries,3792.00,115
+2020-03,Nova Scotia,Trucks,North America,57273.00,1200
+2020-03,Nova Scotia,Trucks,Total overseas,15116.00,423
+2020-03,New Brunswick,Passenger cars,North America,6748.00,245
+2020-03,New Brunswick,Passenger cars,Total overseas,5811.00,165
+2020-03,New Brunswick,Passenger cars,Japan,2594.00,73
+2020-03,New Brunswick,Passenger cars,Other countries,3216.00,92
+2020-03,New Brunswick,Trucks,North America,67735.00,1193
+2020-03,New Brunswick,Trucks,Total overseas,9796.00,278
+2020-03,Quebec,Passenger cars,North America,90665.00,3218
+2020-03,Quebec,Passenger cars,Total overseas,72373.00,1922
+2020-03,Quebec,Passenger cars,Japan,22238.00,699
+2020-03,Quebec,Passenger cars,Other countries,50135.00,1223
+2020-03,Quebec,Trucks,North America,488665.00,9075
+2020-03,Quebec,Trucks,Total overseas,141314.00,3742
+2020-03,Ontario,Passenger cars,North America,199991.00,6425
+2020-03,Ontario,Passenger cars,Total overseas,140733.00,3246
+2020-03,Ontario,Passenger cars,Japan,27050.00,817
+2020-03,Ontario,Passenger cars,Other countries,113683.00,2429
+2020-03,Ontario,Trucks,North America,1397285.00,28008
+2020-03,Ontario,Trucks,Total overseas,286122.00,6602
+2020-03,Manitoba,Passenger cars,North America,8416.00,300
+2020-03,Manitoba,Passenger cars,Total overseas,4553.00,127
+2020-03,Manitoba,Passenger cars,Japan,1723.00,53
+2020-03,Manitoba,Passenger cars,Other countries,2831.00,74
+2020-03,Manitoba,Trucks,North America,119492.00,2183
+2020-03,Manitoba,Trucks,Total overseas,14666.00,371
+2020-03,Saskatchewan,Passenger cars,North America,4697.00,158
+2020-03,Saskatchewan,Passenger cars,Total overseas,3401.00,89
+2020-03,Saskatchewan,Passenger cars,Japan,1134.00,35
+2020-03,Saskatchewan,Passenger cars,Other countries,2267.00,54
+2020-03,Saskatchewan,Trucks,North America,103623.00,2030
+2020-03,Saskatchewan,Trucks,Total overseas,6182.00,164
+2020-03,Alberta,Passenger cars,North America,22737.00,695
+2020-03,Alberta,Passenger cars,Total overseas,18626.00,432
+2020-03,Alberta,Passenger cars,Japan,5001.00,150
+2020-03,Alberta,Passenger cars,Other countries,13625.00,282
+2020-03,Alberta,Trucks,North America,491125.00,8782
+2020-03,Alberta,Trucks,Total overseas,68881.00,1502
+2020-03,British Columbia and the Territories,Passenger cars,North America,44277.00,1487
+2020-03,British Columbia and the Territories,Passenger cars,Total overseas,45127.00,998
+2020-03,British Columbia and the Territories,Passenger cars,Japan,12779.00,394
+2020-03,British Columbia and the Territories,Passenger cars,Other countries,32348.00,604
+2020-03,British Columbia and the Territories,Trucks,North America,356408.00,6741
+2020-03,British Columbia and the Territories,Trucks,Total overseas,94808.00,2087
+2020-04,Newfoundland and Labrador,Passenger cars,North America,2486.00,102
+2020-04,Newfoundland and Labrador,Passenger cars,Total overseas,1335.00,39
+2020-04,Newfoundland and Labrador,Passenger cars,Japan,0.00,0
+2020-04,Newfoundland and Labrador,Passenger cars,Other countries,0.00,0
+2020-04,Newfoundland and Labrador,Trucks,North America,28675.00,620
+2020-04,Newfoundland and Labrador,Trucks,Total overseas,5560.00,165
+2020-04,Prince Edward Island,Passenger cars,North America,957.00,31
+2020-04,Prince Edward Island,Passenger cars,Total overseas,362.00,13
+2020-04,Prince Edward Island,Passenger cars,Japan,0.00,0
+2020-04,Prince Edward Island,Passenger cars,Other countries,0.00,0
+2020-04,Prince Edward Island,Trucks,North America,6757.00,155
+2020-04,Prince Edward Island,Trucks,Total overseas,1565.00,46
+2020-04,Nova Scotia,Passenger cars,North America,6057.00,226
+2020-04,Nova Scotia,Passenger cars,Total overseas,3169.00,95
+2020-04,Nova Scotia,Passenger cars,Japan,783.00,26
+2020-04,Nova Scotia,Passenger cars,Other countries,2387.00,69
+2020-04,Nova Scotia,Trucks,North America,50441.00,1051
+2020-04,Nova Scotia,Trucks,Total overseas,9127.00,251
+2020-04,New Brunswick,Passenger cars,North America,4759.00,164
+2020-04,New Brunswick,Passenger cars,Total overseas,3471.00,103
+2020-04,New Brunswick,Passenger cars,Japan,940.00,30
+2020-04,New Brunswick,Passenger cars,Other countries,2531.00,73
+2020-04,New Brunswick,Trucks,North America,45146.00,862
+2020-04,New Brunswick,Trucks,Total overseas,6134.00,176
+2020-04,Quebec,Passenger cars,North America,33106.00,1068
+2020-04,Quebec,Passenger cars,Total overseas,25424.00,637
+2020-04,Quebec,Passenger cars,Japan,7484.00,227
+2020-04,Quebec,Passenger cars,Other countries,17940.00,410
+2020-04,Quebec,Trucks,North America,210711.00,3857
+2020-04,Quebec,Trucks,Total overseas,47271.00,1257
+2020-04,Ontario,Passenger cars,North America,61921.00,1873
+2020-04,Ontario,Passenger cars,Total overseas,64892.00,1309
+2020-04,Ontario,Passenger cars,Japan,10021.00,287
+2020-04,Ontario,Passenger cars,Other countries,54871.00,1022
+2020-04,Ontario,Trucks,North America,546714.00,10536
+2020-04,Ontario,Trucks,Total overseas,113481.00,2556
+2020-04,Manitoba,Passenger cars,North America,5788.00,185
+2020-04,Manitoba,Passenger cars,Total overseas,3018.00,70
+2020-04,Manitoba,Passenger cars,Japan,703.00,15
+2020-04,Manitoba,Passenger cars,Other countries,2316.00,55
+2020-04,Manitoba,Trucks,North America,78458.00,1496
+2020-04,Manitoba,Trucks,Total overseas,8538.00,206
+2020-04,Saskatchewan,Passenger cars,North America,3099.00,100
+2020-04,Saskatchewan,Passenger cars,Total overseas,2519.00,72
+2020-04,Saskatchewan,Passenger cars,Japan,348.00,11
+2020-04,Saskatchewan,Passenger cars,Other countries,2171.00,61
+2020-04,Saskatchewan,Trucks,North America,78113.00,1486
+2020-04,Saskatchewan,Trucks,Total overseas,7080.00,169
+2020-04,Alberta,Passenger cars,North America,21344.00,564
+2020-04,Alberta,Passenger cars,Total overseas,17628.00,373
+2020-04,Alberta,Passenger cars,Japan,4154.00,114
+2020-04,Alberta,Passenger cars,Other countries,13474.00,259
+2020-04,Alberta,Trucks,North America,340561.00,6407
+2020-04,Alberta,Trucks,Total overseas,40577.00,857
+2020-04,British Columbia and the Territories,Passenger cars,North America,25395.00,760
+2020-04,British Columbia and the Territories,Passenger cars,Total overseas,29431.00,688
+2020-04,British Columbia and the Territories,Passenger cars,Japan,8191.00,265
+2020-04,British Columbia and the Territories,Passenger cars,Other countries,21240.00,423
+2020-04,British Columbia and the Territories,Trucks,North America,271313.00,5170
+2020-04,British Columbia and the Territories,Trucks,Total overseas,65637.00,1373
+2020-05,Newfoundland and Labrador,Passenger cars,North America,6470.00,248
+2020-05,Newfoundland and Labrador,Passenger cars,Total overseas,3555.00,105
+2020-05,Newfoundland and Labrador,Passenger cars,Japan,0.00,0
+2020-05,Newfoundland and Labrador,Passenger cars,Other countries,0.00,0
+2020-05,Newfoundland and Labrador,Trucks,North America,56507.00,1311
+2020-05,Newfoundland and Labrador,Trucks,Total overseas,13122.00,388
+2020-05,Prince Edward Island,Passenger cars,North America,2254.00,89
+2020-05,Prince Edward Island,Passenger cars,Total overseas,841.00,31
+2020-05,Prince Edward Island,Passenger cars,Japan,0.00,0
+2020-05,Prince Edward Island,Passenger cars,Other countries,0.00,0
+2020-05,Prince Edward Island,Trucks,North America,12307.00,303
+2020-05,Prince Edward Island,Trucks,Total overseas,2738.00,89
+2020-05,Nova Scotia,Passenger cars,North America,12545.00,467
+2020-05,Nova Scotia,Passenger cars,Total overseas,7675.00,221
+2020-05,Nova Scotia,Passenger cars,Japan,1549.00,50
+2020-05,Nova Scotia,Passenger cars,Other countries,6126.00,171
+2020-05,Nova Scotia,Trucks,North America,73376.00,1544
+2020-05,Nova Scotia,Trucks,Total overseas,17880.00,508
+2020-05,New Brunswick,Passenger cars,North America,9171.00,362
+2020-05,New Brunswick,Passenger cars,Total overseas,6388.00,177
+2020-05,New Brunswick,Passenger cars,Japan,1524.00,48
+2020-05,New Brunswick,Passenger cars,Other countries,4864.00,129
+2020-05,New Brunswick,Trucks,North America,86709.00,1662
+2020-05,New Brunswick,Trucks,Total overseas,16323.00,470
+2020-05,Quebec,Passenger cars,North America,153111.00,5703
+2020-05,Quebec,Passenger cars,Total overseas,135488.00,3483
+2020-05,Quebec,Passenger cars,Japan,35766.00,1131
+2020-05,Quebec,Passenger cars,Other countries,99722.00,2352
+2020-05,Quebec,Trucks,North America,718292.00,15013
+2020-05,Quebec,Trucks,Total overseas,241694.00,6585
+2020-05,Ontario,Passenger cars,North America,183452.00,5727
+2020-05,Ontario,Passenger cars,Total overseas,150635.00,3428
+2020-05,Ontario,Passenger cars,Japan,27852.00,822
+2020-05,Ontario,Passenger cars,Other countries,122783.00,2606
+2020-05,Ontario,Trucks,North America,1261354.00,26156
+2020-05,Ontario,Trucks,Total overseas,290993.00,6837
+2020-05,Manitoba,Passenger cars,North America,11317.00,387
+2020-05,Manitoba,Passenger cars,Total overseas,5038.00,134
+2020-05,Manitoba,Passenger cars,Japan,1003.00,33
+2020-05,Manitoba,Passenger cars,Other countries,4036.00,101
+2020-05,Manitoba,Trucks,North America,105831.00,2072
+2020-05,Manitoba,Trucks,Total overseas,16905.00,456
+2020-05,Saskatchewan,Passenger cars,North America,6397.00,209
+2020-05,Saskatchewan,Passenger cars,Total overseas,5123.00,132
+2020-05,Saskatchewan,Passenger cars,Japan,989.00,30
+2020-05,Saskatchewan,Passenger cars,Other countries,4133.00,102
+2020-05,Saskatchewan,Trucks,North America,94571.00,1833
+2020-05,Saskatchewan,Trucks,Total overseas,13713.00,370
+2020-05,Alberta,Passenger cars,North America,32672.00,965
+2020-05,Alberta,Passenger cars,Total overseas,32195.00,675
+2020-05,Alberta,Passenger cars,Japan,6826.00,193
+2020-05,Alberta,Passenger cars,Other countries,25368.00,482
+2020-05,Alberta,Trucks,North America,450740.00,8190
+2020-05,Alberta,Trucks,Total overseas,74822.00,1690
+2020-05,British Columbia and the Territories,Passenger cars,North America,41581.00,1323
+2020-05,British Columbia and the Territories,Passenger cars,Total overseas,47727.00,1032
+2020-05,British Columbia and the Territories,Passenger cars,Japan,10262.00,313
+2020-05,British Columbia and the Territories,Passenger cars,Other countries,37465.00,719
+2020-05,British Columbia and the Territories,Trucks,North America,366739.00,6744
+2020-05,British Columbia and the Territories,Trucks,Total overseas,96487.00,2054
+2020-06,Newfoundland and Labrador,Passenger cars,North America,10350.00,415
+2020-06,Newfoundland and Labrador,Passenger cars,Total overseas,6488.00,203
+2020-06,Newfoundland and Labrador,Passenger cars,Japan,0.00,0
+2020-06,Newfoundland and Labrador,Passenger cars,Other countries,0.00,0
+2020-06,Newfoundland and Labrador,Trucks,North America,84276.00,2153
+2020-06,Newfoundland and Labrador,Trucks,Total overseas,20659.00,614
+2020-06,Prince Edward Island,Passenger cars,North America,3200.00,124
+2020-06,Prince Edward Island,Passenger cars,Total overseas,1724.00,59
+2020-06,Prince Edward Island,Passenger cars,Japan,0.00,0
+2020-06,Prince Edward Island,Passenger cars,Other countries,0.00,0
+2020-06,Prince Edward Island,Trucks,North America,19391.00,448
+2020-06,Prince Edward Island,Trucks,Total overseas,4588.00,141
+2020-06,Nova Scotia,Passenger cars,North America,17499.00,655
+2020-06,Nova Scotia,Passenger cars,Total overseas,8850.00,274
+2020-06,Nova Scotia,Passenger cars,Japan,2161.00,74
+2020-06,Nova Scotia,Passenger cars,Other countries,6689.00,200
+2020-06,Nova Scotia,Trucks,North America,90997.00,2079
+2020-06,Nova Scotia,Trucks,Total overseas,27914.00,811
+2020-06,New Brunswick,Passenger cars,North America,11528.00,433
+2020-06,New Brunswick,Passenger cars,Total overseas,8934.00,253
+2020-06,New Brunswick,Passenger cars,Japan,1838.00,57
+2020-06,New Brunswick,Passenger cars,Other countries,7096.00,196
+2020-06,New Brunswick,Trucks,North America,96701.00,1930
+2020-06,New Brunswick,Trucks,Total overseas,25483.00,739
+2020-06,Quebec,Passenger cars,North America,209711.00,7835
+2020-06,Quebec,Passenger cars,Total overseas,193916.00,5095
+2020-06,Quebec,Passenger cars,Japan,51451.00,1609
+2020-06,Quebec,Passenger cars,Other countries,142465.00,3486
+2020-06,Quebec,Trucks,North America,936415.00,19653
+2020-06,Quebec,Trucks,Total overseas,367536.00,9844
+2020-06,Ontario,Passenger cars,North America,237909.00,7631
+2020-06,Ontario,Passenger cars,Total overseas,216916.00,4900
+2020-06,Ontario,Passenger cars,Japan,40333.00,1200
+2020-06,Ontario,Passenger cars,Other countries,176583.00,3700
+2020-06,Ontario,Trucks,North America,1776030.00,35329
+2020-06,Ontario,Trucks,Total overseas,448722.00,10571
+2020-06,Manitoba,Passenger cars,North America,13161.00,458
+2020-06,Manitoba,Passenger cars,Total overseas,8685.00,233
+2020-06,Manitoba,Passenger cars,Japan,2017.00,58
+2020-06,Manitoba,Passenger cars,Other countries,6668.00,175
+2020-06,Manitoba,Trucks,North America,143338.00,2772
+2020-06,Manitoba,Trucks,Total overseas,27473.00,706
+2020-06,Saskatchewan,Passenger cars,North America,7018.00,230
+2020-06,Saskatchewan,Passenger cars,Total overseas,6167.00,172
+2020-06,Saskatchewan,Passenger cars,Japan,1207.00,36
+2020-06,Saskatchewan,Passenger cars,Other countries,4960.00,136
+2020-06,Saskatchewan,Trucks,North America,143926.00,2836
+2020-06,Saskatchewan,Trucks,Total overseas,15791.00,409
+2020-06,Alberta,Passenger cars,North America,35511.00,1160
+2020-06,Alberta,Passenger cars,Total overseas,36764.00,941
+2020-06,Alberta,Passenger cars,Japan,7201.00,228
+2020-06,Alberta,Passenger cars,Other countries,29563.00,713
+2020-06,Alberta,Trucks,North America,589506.00,10878
+2020-06,Alberta,Trucks,Total overseas,100616.00,2315
+2020-06,British Columbia and the Territories,Passenger cars,North America,45899.00,1475
+2020-06,British Columbia and the Territories,Passenger cars,Total overseas,61343.00,1404
+2020-06,British Columbia and the Territories,Passenger cars,Japan,14177.00,438
+2020-06,British Columbia and the Territories,Passenger cars,Other countries,47166.00,966
+2020-06,British Columbia and the Territories,Trucks,North America,411440.00,8170
+2020-06,British Columbia and the Territories,Trucks,Total overseas,123543.00,2731
+2020-07,Newfoundland and Labrador,Passenger cars,North America,9507.00,369
+2020-07,Newfoundland and Labrador,Passenger cars,Total overseas,6341.00,196
+2020-07,Newfoundland and Labrador,Passenger cars,Japan,0.00,0
+2020-07,Newfoundland and Labrador,Passenger cars,Other countries,0.00,0
+2020-07,Newfoundland and Labrador,Trucks,North America,96689.00,2206
+2020-07,Newfoundland and Labrador,Trucks,Total overseas,20515.00,621
+2020-07,Prince Edward Island,Passenger cars,North America,3345.00,132
+2020-07,Prince Edward Island,Passenger cars,Total overseas,998.00,38
+2020-07,Prince Edward Island,Passenger cars,Japan,0.00,0
+2020-07,Prince Edward Island,Passenger cars,Other countries,0.00,0
+2020-07,Prince Edward Island,Trucks,North America,19854.00,467
+2020-07,Prince Edward Island,Trucks,Total overseas,5145.00,158
+2020-07,Nova Scotia,Passenger cars,North America,17222.00,623
+2020-07,Nova Scotia,Passenger cars,Total overseas,11897.00,342
+2020-07,Nova Scotia,Passenger cars,Japan,2633.00,94
+2020-07,Nova Scotia,Passenger cars,Other countries,9264.00,248
+2020-07,Nova Scotia,Trucks,North America,113915.00,2522
+2020-07,Nova Scotia,Trucks,Total overseas,33218.00,934
+2020-07,New Brunswick,Passenger cars,North America,13001.00,489
+2020-07,New Brunswick,Passenger cars,Total overseas,7632.00,222
+2020-07,New Brunswick,Passenger cars,Japan,1973.00,61
+2020-07,New Brunswick,Passenger cars,Other countries,5659.00,161
+2020-07,New Brunswick,Trucks,North America,115527.00,2473
+2020-07,New Brunswick,Trucks,Total overseas,24498.00,705
+2020-07,Quebec,Passenger cars,North America,186350.00,7106
+2020-07,Quebec,Passenger cars,Total overseas,204866.00,4893
+2020-07,Quebec,Passenger cars,Japan,45231.00,1467
+2020-07,Quebec,Passenger cars,Other countries,159635.00,3426
+2020-07,Quebec,Trucks,North America,1040699.00,21576
+2020-07,Quebec,Trucks,Total overseas,367337.00,9738
+2020-07,Ontario,Passenger cars,North America,238961.00,8210
+2020-07,Ontario,Passenger cars,Total overseas,267764.00,5589
+2020-07,Ontario,Passenger cars,Japan,41156.00,1269
+2020-07,Ontario,Passenger cars,Other countries,226608.00,4320
+2020-07,Ontario,Trucks,North America,1998913.00,41772
+2020-07,Ontario,Trucks,Total overseas,474944.00,11495
+2020-07,Manitoba,Passenger cars,North America,14072.00,519
+2020-07,Manitoba,Passenger cars,Total overseas,8799.00,234
+2020-07,Manitoba,Passenger cars,Japan,2219.00,65
+2020-07,Manitoba,Passenger cars,Other countries,6579.00,169
+2020-07,Manitoba,Trucks,North America,176769.00,3468
+2020-07,Manitoba,Trucks,Total overseas,26211.00,664
+2020-07,Saskatchewan,Passenger cars,North America,6997.00,232
+2020-07,Saskatchewan,Passenger cars,Total overseas,5650.00,146
+2020-07,Saskatchewan,Passenger cars,Japan,1386.00,43
+2020-07,Saskatchewan,Passenger cars,Other countries,4264.00,103
+2020-07,Saskatchewan,Trucks,North America,162152.00,3206
+2020-07,Saskatchewan,Trucks,Total overseas,18518.00,459
+2020-07,Alberta,Passenger cars,North America,42201.00,1324
+2020-07,Alberta,Passenger cars,Total overseas,36178.00,782
+2020-07,Alberta,Passenger cars,Japan,8919.00,278
+2020-07,Alberta,Passenger cars,Other countries,27259.00,504
+2020-07,Alberta,Trucks,North America,734036.00,14180
+2020-07,Alberta,Trucks,Total overseas,111447.00,2621
+2020-07,British Columbia and the Territories,Passenger cars,North America,51066.00,1638
+2020-07,British Columbia and the Territories,Passenger cars,Total overseas,66028.00,1412
+2020-07,British Columbia and the Territories,Passenger cars,Japan,14925.00,467
+2020-07,British Columbia and the Territories,Passenger cars,Other countries,51103.00,945
+2020-07,British Columbia and the Territories,Trucks,North America,483307.00,9633
+2020-07,British Columbia and the Territories,Trucks,Total overseas,141220.00,3176
+2020-08,Newfoundland and Labrador,Passenger cars,North America,10127.00,409
+2020-08,Newfoundland and Labrador,Passenger cars,Total overseas,4974.00,156
+2020-08,Newfoundland and Labrador,Passenger cars,Japan,0.00,0
+2020-08,Newfoundland and Labrador,Passenger cars,Other countries,0.00,0
+2020-08,Newfoundland and Labrador,Trucks,North America,94335.00,2158
+2020-08,Newfoundland and Labrador,Trucks,Total overseas,17023.00,513
+2020-08,Prince Edward Island,Passenger cars,North America,3660.00,143
+2020-08,Prince Edward Island,Passenger cars,Total overseas,1097.00,40
+2020-08,Prince Edward Island,Passenger cars,Japan,0.00,0
+2020-08,Prince Edward Island,Passenger cars,Other countries,0.00,0
+2020-08,Prince Edward Island,Trucks,North America,23018.00,550
+2020-08,Prince Edward Island,Trucks,Total overseas,3826.00,118
+2020-08,Nova Scotia,Passenger cars,North America,19452.00,719
+2020-08,Nova Scotia,Passenger cars,Total overseas,10859.00,323
+2020-08,Nova Scotia,Passenger cars,Japan,2489.00,86
+2020-08,Nova Scotia,Passenger cars,Other countries,8370.00,237
+2020-08,Nova Scotia,Trucks,North America,118002.00,2598
+2020-08,Nova Scotia,Trucks,Total overseas,32010.00,910
+2020-08,New Brunswick,Passenger cars,North America,12387.00,474
+2020-08,New Brunswick,Passenger cars,Total overseas,7377.00,211
+2020-08,New Brunswick,Passenger cars,Japan,1685.00,52
+2020-08,New Brunswick,Passenger cars,Other countries,5692.00,159
+2020-08,New Brunswick,Trucks,North America,121504.00,2570
+2020-08,New Brunswick,Trucks,Total overseas,22929.00,655
+2020-08,Quebec,Passenger cars,North America,182414.00,6940
+2020-08,Quebec,Passenger cars,Total overseas,155197.00,3946
+2020-08,Quebec,Passenger cars,Japan,35532.00,1158
+2020-08,Quebec,Passenger cars,Other countries,119665.00,2788
+2020-08,Quebec,Trucks,North America,1018009.00,21202
+2020-08,Quebec,Trucks,Total overseas,364621.00,9715
+2020-08,Ontario,Passenger cars,North America,275546.00,9280
+2020-08,Ontario,Passenger cars,Total overseas,242675.00,5137
+2020-08,Ontario,Passenger cars,Japan,38183.00,1152
+2020-08,Ontario,Passenger cars,Other countries,204492.00,3985
+2020-08,Ontario,Trucks,North America,2128895.00,45199
+2020-08,Ontario,Trucks,Total overseas,514098.00,11554
+2020-08,Manitoba,Passenger cars,North America,12918.00,459
+2020-08,Manitoba,Passenger cars,Total overseas,10115.00,244
+2020-08,Manitoba,Passenger cars,Japan,2027.00,59
+2020-08,Manitoba,Passenger cars,Other countries,8088.00,185
+2020-08,Manitoba,Trucks,North America,185753.00,3622
+2020-08,Manitoba,Trucks,Total overseas,26776.00,709
+2020-08,Saskatchewan,Passenger cars,North America,8149.00,270
+2020-08,Saskatchewan,Passenger cars,Total overseas,6633.00,147
+2020-08,Saskatchewan,Passenger cars,Japan,944.00,30
+2020-08,Saskatchewan,Passenger cars,Other countries,5689.00,117
+2020-08,Saskatchewan,Trucks,North America,183755.00,3642
+2020-08,Saskatchewan,Trucks,Total overseas,21237.00,547
+2020-08,Alberta,Passenger cars,North America,48972.00,1575
+2020-08,Alberta,Passenger cars,Total overseas,31556.00,676
+2020-08,Alberta,Passenger cars,Japan,6420.00,209
+2020-08,Alberta,Passenger cars,Other countries,25136.00,467
+2020-08,Alberta,Trucks,North America,744529.00,14570
+2020-08,Alberta,Trucks,Total overseas,97559.00,2304
+2020-08,British Columbia and the Territories,Passenger cars,North America,55962.00,1854
+2020-08,British Columbia and the Territories,Passenger cars,Total overseas,72830.00,1532
+2020-08,British Columbia and the Territories,Passenger cars,Japan,15290.00,471
+2020-08,British Columbia and the Territories,Passenger cars,Other countries,57540.00,1061
+2020-08,British Columbia and the Territories,Trucks,North America,520014.00,10618
+2020-08,British Columbia and the Territories,Trucks,Total overseas,143178.00,3295
+2020-09,Newfoundland and Labrador,Passenger cars,North America,8835.00,361
+2020-09,Newfoundland and Labrador,Passenger cars,Total overseas,6019.00,164
+2020-09,Newfoundland and Labrador,Passenger cars,Japan,0.00,0
+2020-09,Newfoundland and Labrador,Passenger cars,Other countries,0.00,0
+2020-09,Newfoundland and Labrador,Trucks,North America,88503.00,2050
+2020-09,Newfoundland and Labrador,Trucks,Total overseas,16516.00,486
+2020-09,Prince Edward Island,Passenger cars,North America,2647.00,108
+2020-09,Prince Edward Island,Passenger cars,Total overseas,1157.00,41
+2020-09,Prince Edward Island,Passenger cars,Japan,0.00,0
+2020-09,Prince Edward Island,Passenger cars,Other countries,0.00,0
+2020-09,Prince Edward Island,Trucks,North America,21381.00,512
+2020-09,Prince Edward Island,Trucks,Total overseas,4659.00,138
+2020-09,Nova Scotia,Passenger cars,North America,17651.00,683
+2020-09,Nova Scotia,Passenger cars,Total overseas,9577.00,298
+2020-09,Nova Scotia,Passenger cars,Japan,2355.00,81
+2020-09,Nova Scotia,Passenger cars,Other countries,7222.00,217
+2020-09,Nova Scotia,Trucks,North America,124438.00,2789
+2020-09,Nova Scotia,Trucks,Total overseas,29208.00,802
+2020-09,New Brunswick,Passenger cars,North America,11857.00,463
+2020-09,New Brunswick,Passenger cars,Total overseas,7299.00,205
+2020-09,New Brunswick,Passenger cars,Japan,1811.00,54
+2020-09,New Brunswick,Passenger cars,Other countries,5488.00,151
+2020-09,New Brunswick,Trucks,North America,123270.00,2663
+2020-09,New Brunswick,Trucks,Total overseas,22474.00,643
+2020-09,Quebec,Passenger cars,North America,178872.00,6810
+2020-09,Quebec,Passenger cars,Total overseas,173119.00,4145
+2020-09,Quebec,Passenger cars,Japan,37804.00,1234
+2020-09,Quebec,Passenger cars,Other countries,135315.00,2911
+2020-09,Quebec,Trucks,North America,1056998.00,22224
+2020-09,Quebec,Trucks,Total overseas,354988.00,9735
+2020-09,Ontario,Passenger cars,North America,241873.00,8329
+2020-09,Ontario,Passenger cars,Total overseas,220097.00,4760
+2020-09,Ontario,Passenger cars,Japan,37309.00,1136
+2020-09,Ontario,Passenger cars,Other countries,182788.00,3624
+2020-09,Ontario,Trucks,North America,2181195.00,46286
+2020-09,Ontario,Trucks,Total overseas,454778.00,10961
+2020-09,Manitoba,Passenger cars,North America,14070.00,502
+2020-09,Manitoba,Passenger cars,Total overseas,8087.00,206
+2020-09,Manitoba,Passenger cars,Japan,1546.00,47
+2020-09,Manitoba,Passenger cars,Other countries,6540.00,159
+2020-09,Manitoba,Trucks,North America,194373.00,3900
+2020-09,Manitoba,Trucks,Total overseas,24010.00,587
+2020-09,Saskatchewan,Passenger cars,North America,9325.00,310
+2020-09,Saskatchewan,Passenger cars,Total overseas,4762.00,114
+2020-09,Saskatchewan,Passenger cars,Japan,1185.00,31
+2020-09,Saskatchewan,Passenger cars,Other countries,3576.00,83
+2020-09,Saskatchewan,Trucks,North America,194244.00,3778
+2020-09,Saskatchewan,Trucks,Total overseas,17867.00,428
+2020-09,Alberta,Passenger cars,North America,46109.00,1511
+2020-09,Alberta,Passenger cars,Total overseas,35073.00,737
+2020-09,Alberta,Passenger cars,Japan,6837.00,221
+2020-09,Alberta,Passenger cars,Other countries,28236.00,516
+2020-09,Alberta,Trucks,North America,779330.00,15305
+2020-09,Alberta,Trucks,Total overseas,106693.00,2425
+2020-09,British Columbia and the Territories,Passenger cars,North America,58760.00,1889
+2020-09,British Columbia and the Territories,Passenger cars,Total overseas,80403.00,1614
+2020-09,British Columbia and the Territories,Passenger cars,Japan,18856.00,586
+2020-09,British Columbia and the Territories,Passenger cars,Other countries,61547.00,1028
+2020-09,British Columbia and the Territories,Trucks,North America,585874.00,11682
+2020-09,British Columbia and the Territories,Trucks,Total overseas,144635.00,3258
+2020-10,Newfoundland and Labrador,Passenger cars,North America,6702.00,273
+2020-10,Newfoundland and Labrador,Passenger cars,Total overseas,4209.00,131
+2020-10,Newfoundland and Labrador,Passenger cars,Japan,0.00,0
+2020-10,Newfoundland and Labrador,Passenger cars,Other countries,0.00,0
+2020-10,Newfoundland and Labrador,Trucks,North America,76321.00,1728
+2020-10,Newfoundland and Labrador,Trucks,Total overseas,18356.00,555
+2020-10,Prince Edward Island,Passenger cars,North America,2717.00,107
+2020-10,Prince Edward Island,Passenger cars,Total overseas,835.00,29
+2020-10,Prince Edward Island,Passenger cars,Japan,0.00,0
+2020-10,Prince Edward Island,Passenger cars,Other countries,0.00,0
+2020-10,Prince Edward Island,Trucks,North America,19883.00,476
+2020-10,Prince Edward Island,Trucks,Total overseas,4380.00,136
+2020-10,Nova Scotia,Passenger cars,North America,14196.00,548
+2020-10,Nova Scotia,Passenger cars,Total overseas,9390.00,281
+2020-10,Nova Scotia,Passenger cars,Japan,1653.00,59
+2020-10,Nova Scotia,Passenger cars,Other countries,7737.00,222
+2020-10,Nova Scotia,Trucks,North America,110334.00,2486
+2020-10,Nova Scotia,Trucks,Total overseas,31398.00,879
+2020-10,New Brunswick,Passenger cars,North America,9770.00,364
+2020-10,New Brunswick,Passenger cars,Total overseas,5433.00,173
+2020-10,New Brunswick,Passenger cars,Japan,1442.00,52
+2020-10,New Brunswick,Passenger cars,Other countries,3991.00,121
+2020-10,New Brunswick,Trucks,North America,98474.00,2113
+2020-10,New Brunswick,Trucks,Total overseas,22837.00,654
+2020-10,Quebec,Passenger cars,North America,151495.00,5567
+2020-10,Quebec,Passenger cars,Total overseas,132687.00,3353
+2020-10,Quebec,Passenger cars,Japan,31773.00,1007
+2020-10,Quebec,Passenger cars,Other countries,100914.00,2346
+2020-10,Quebec,Trucks,North America,889191.00,19052
+2020-10,Quebec,Trucks,Total overseas,380904.00,10353
+2020-10,Ontario,Passenger cars,North America,230356.00,7643
+2020-10,Ontario,Passenger cars,Total overseas,192569.00,4416
+2020-10,Ontario,Passenger cars,Japan,33560.00,1042
+2020-10,Ontario,Passenger cars,Other countries,159008.00,3374
+2020-10,Ontario,Trucks,North America,2013457.00,41740
+2020-10,Ontario,Trucks,Total overseas,464232.00,11052
+2020-10,Manitoba,Passenger cars,North America,12485.00,451
+2020-10,Manitoba,Passenger cars,Total overseas,9549.00,258
+2020-10,Manitoba,Passenger cars,Japan,1544.00,45
+2020-10,Manitoba,Passenger cars,Other countries,8006.00,213
+2020-10,Manitoba,Trucks,North America,188033.00,3634
+2020-10,Manitoba,Trucks,Total overseas,26829.00,682
+2020-10,Saskatchewan,Passenger cars,North America,7948.00,265
+2020-10,Saskatchewan,Passenger cars,Total overseas,3830.00,124
+2020-10,Saskatchewan,Passenger cars,Japan,873.00,29
+2020-10,Saskatchewan,Passenger cars,Other countries,2957.00,95
+2020-10,Saskatchewan,Trucks,North America,177900.00,3474
+2020-10,Saskatchewan,Trucks,Total overseas,21397.00,545
+2020-10,Alberta,Passenger cars,North America,35743.00,1127
+2020-10,Alberta,Passenger cars,Total overseas,22946.00,528
+2020-10,Alberta,Passenger cars,Japan,4998.00,156
+2020-10,Alberta,Passenger cars,Other countries,17948.00,372
+2020-10,Alberta,Trucks,North America,729308.00,13761
+2020-10,Alberta,Trucks,Total overseas,109633.00,2463
+2020-10,British Columbia and the Territories,Passenger cars,North America,49193.00,1627
+2020-10,British Columbia and the Territories,Passenger cars,Total overseas,57630.00,1265
+2020-10,British Columbia and the Territories,Passenger cars,Japan,13635.00,410
+2020-10,British Columbia and the Territories,Passenger cars,Other countries,43995.00,855
+2020-10,British Columbia and the Territories,Trucks,North America,557567.00,11104
+2020-10,British Columbia and the Territories,Trucks,Total overseas,162564.00,3681
+2020-11,Newfoundland and Labrador,Passenger cars,North America,4344.00,170
+2020-11,Newfoundland and Labrador,Passenger cars,Total overseas,2824.00,79
+2020-11,Newfoundland and Labrador,Passenger cars,Japan,0.00,0
+2020-11,Newfoundland and Labrador,Passenger cars,Other countries,0.00,0
+2020-11,Newfoundland and Labrador,Trucks,North America,59734.00,1334
+2020-11,Newfoundland and Labrador,Trucks,Total overseas,18129.00,531
+2020-11,Prince Edward Island,Passenger cars,North America,1906.00,73
+2020-11,Prince Edward Island,Passenger cars,Total overseas,740.00,27
+2020-11,Prince Edward Island,Passenger cars,Japan,0.00,0
+2020-11,Prince Edward Island,Passenger cars,Other countries,0.00,0
+2020-11,Prince Edward Island,Trucks,North America,14001.00,326
+2020-11,Prince Edward Island,Trucks,Total overseas,4285.00,129
+2020-11,Nova Scotia,Passenger cars,North America,11526.00,432
+2020-11,Nova Scotia,Passenger cars,Total overseas,7128.00,204
+2020-11,Nova Scotia,Passenger cars,Japan,1734.00,61
+2020-11,Nova Scotia,Passenger cars,Other countries,5394.00,143
+2020-11,Nova Scotia,Trucks,North America,83429.00,1816
+2020-11,Nova Scotia,Trucks,Total overseas,23576.00,659
+2020-11,New Brunswick,Passenger cars,North America,7071.00,264
+2020-11,New Brunswick,Passenger cars,Total overseas,4512.00,139
+2020-11,New Brunswick,Passenger cars,Japan,940.00,32
+2020-11,New Brunswick,Passenger cars,Other countries,3572.00,107
+2020-11,New Brunswick,Trucks,North America,86346.00,1764
+2020-11,New Brunswick,Trucks,Total overseas,20182.00,564
+2020-11,Quebec,Passenger cars,North America,128420.00,4318
+2020-11,Quebec,Passenger cars,Total overseas,110034.00,2679
+2020-11,Quebec,Passenger cars,Japan,30282.00,925
+2020-11,Quebec,Passenger cars,Other countries,79751.00,1754
+2020-11,Quebec,Trucks,North America,761621.00,15636
+2020-11,Quebec,Trucks,Total overseas,336098.00,8769
+2020-11,Ontario,Passenger cars,North America,220200.00,6876
+2020-11,Ontario,Passenger cars,Total overseas,173241.00,3975
+2020-11,Ontario,Passenger cars,Japan,35556.00,1055
+2020-11,Ontario,Passenger cars,Other countries,137685.00,2920
+2020-11,Ontario,Trucks,North America,1726093.00,34786
+2020-11,Ontario,Trucks,Total overseas,469109.00,10823
+2020-11,Manitoba,Passenger cars,North America,7946.00,278
+2020-11,Manitoba,Passenger cars,Total overseas,4282.00,116
+2020-11,Manitoba,Passenger cars,Japan,1195.00,30
+2020-11,Manitoba,Passenger cars,Other countries,3087.00,86
+2020-11,Manitoba,Trucks,North America,139301.00,2546
+2020-11,Manitoba,Trucks,Total overseas,22520.00,569
+2020-11,Saskatchewan,Passenger cars,North America,5162.00,174
+2020-11,Saskatchewan,Passenger cars,Total overseas,3231.00,81
+2020-11,Saskatchewan,Passenger cars,Japan,644.00,16
+2020-11,Saskatchewan,Passenger cars,Other countries,2587.00,65
+2020-11,Saskatchewan,Trucks,North America,132704.00,2577
+2020-11,Saskatchewan,Trucks,Total overseas,15479.00,410
+2020-11,Alberta,Passenger cars,North America,26526.00,820
+2020-11,Alberta,Passenger cars,Total overseas,19768.00,461
+2020-11,Alberta,Passenger cars,Japan,5064.00,155
+2020-11,Alberta,Passenger cars,Other countries,14704.00,306
+2020-11,Alberta,Trucks,North America,574902.00,10715
+2020-11,Alberta,Trucks,Total overseas,101340.00,2270
+2020-11,British Columbia and the Territories,Passenger cars,North America,44132.00,1398
+2020-11,British Columbia and the Territories,Passenger cars,Total overseas,53277.00,1150
+2020-11,British Columbia and the Territories,Passenger cars,Japan,13145.00,397
+2020-11,British Columbia and the Territories,Passenger cars,Other countries,40132.00,753
+2020-11,British Columbia and the Territories,Trucks,North America,453102.00,8608
+2020-11,British Columbia and the Territories,Trucks,Total overseas,146830.00,3199

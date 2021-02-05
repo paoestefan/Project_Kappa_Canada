@@ -138,3 +138,53 @@ var myMap = L.map("map", {
 L.control.layers(baseMaps, overlayMaps, {
   collapsed: false
 }).addTo(myMap);
+
+
+d3.json("/api_data").then(data=>{
+  function tabulate(data, columns) {
+      var table = d3.select("#med_inc")
+          , columnNames = ["REF_DATE","GEO","Vehicle type","Origin of manufacture","Sales in dollars","Sales in Units"]
+          , thead = table.append("thead")
+          , tbody = table.append("tbody");
+
+      // append the header row
+      thead.append("tr")
+          .selectAll("th")
+          .data(columnNames)
+          .enter()
+          .append("th")
+          .text(function (columnNames) { return columnNames; });
+
+      // create a row for each object in the data
+      var rows = tbody.selectAll("tr")
+          .data(data)
+          .enter()
+          .append("tr");
+
+      // create a cell in each row for each column
+      var cells = rows.selectAll("td")
+          .data(function (row) {
+              return columns.map(function (column) {
+                  return { column: column, value: row[column] };
+              });
+          })
+          .enter()
+          .append("td")
+          .attr("style", "font-family: 'Lato'")
+              .html(function (d) {
+                  if ($.isNumeric(d.value)) {//jQuery function checks if number is numeric, if it is formats it with thousands seporator
+                      return formatMoney(d.value)
+                  } else {
+                      return d.value;
+                  };
+              });
+
+      return table;
+  };
+
+  tabulate(data, ["REF_DATE","GEO","Vehicle type","Origin of manufacture","Sales in dollars","Sales in Units"])//The names of the columns in the CSV file
+
+  function formatMoney(n) {
+      return n.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,")
+  };
+}).addto(table);
