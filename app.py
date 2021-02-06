@@ -18,8 +18,8 @@ def api_data():
 
     return (
         Canada_VSales
-    )
-
+        .to_json(orient="records")
+        )
 
 if __name__=="__main__":
     app.run(debug=True)

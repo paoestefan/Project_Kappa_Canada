@@ -5,11 +5,15 @@
 } */
 
 /* set map, body, and html to 100% of the screen size */
-#map{
+/* #map{ */
 /* body, */
 /* html { */
-  height: 50vh;
-}
+  /* height: 50vh;
+} */
 .col {
   padding: 0.5cm;
+}
+#map{
+  height: 75%;
+  width:50%;
 }
