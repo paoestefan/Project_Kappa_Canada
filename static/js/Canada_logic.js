@@ -74,7 +74,7 @@ function mapLogic(feature, layer){
     `)
 }
 
-d3.json("Static/Data/canada.geojson")
+d3.json("static/data/canada.geojson")
 .then(data=>{
     L.geoJson(data,{
         style: mapStyle,
