@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>Basic Map</title>
+    
+    <!-- D3 (((FROM WEB)))-->
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+
+    <!-- Leaflet's CSS (((FROM WEB)))-->
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""/>
+
+     <!-- Make sure you put this AFTER Leaflet's CSS (((FROM WEB)))-->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+
+    <!-- Make link to style CSS created-->
+    <link rel="stylesheet" href="Static/CSS/Canada_Style.css">
+
+    <!-- Our CSS -->
+    <!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <!-- <script src="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.js"></script> -->
+
+</head>
+<body>
+  
+  <!-- Seccion para la barra superior de navegación  -->
+  <nav class="navbar navbar-dark bg-dark">
+    <div class="container-fluid">
+      <span class="navbar-text">
+        <h2>Kappa Team Dashboard</h2>
+      </span>
+    </div>
+  </nav>
+  <!-- Sección de toda la pagina -->
+  <div class="container justify-content-center"> 
+
+    <!-- Sección del Mapa -->
+    <div id="map" class= "m-3"></div>
+
+    <!-- Sección de 1 renglon y 2 columnas para colocar los combobox de Fecha -->
+    
+    <div class="row justify-content-center">
+      <div class="col-3">
+        <div class="card text-white bg-primary" style="width: 18rem;">
+          <div class="card-body"> <h5>Date From:</h5> </div>
+            <select name = "f-date" class="form-select" id="f-date">
+              <option selected>2019-12</option>
+              <option value="1">2020-01</option>
+              <option value="2">2020-02</option>
+              <option value="2">2020-03</option>
+              <option value="2">2020-04</option>
+              <option value="2">2020-05</option>
+              <option value="2">2020-06</option>
+              <option value="2">2020-07</option>
+              <option value="2">2020-08</option>
+              <option value="2">2020-09</option>
+              <option value="2">2020-10</option>
+              <option value="2">2020-11</option>
+            </select>
+        </div>
+      </div>  
+      <div class="col-3">
+        <div class="card text-white bg-primary" style="width: 18rem;">
+            <div class="card-body"> <h5>Date To:</h5> </div>
+            <select name = "t-date" class="form-select" id="t-date">
+              <option selected>2019-12</option>
+              <option value="1">2020-01</option>
+              <option value="2">2020-02</option>
+              <option value="2">2020-03</option>
+              <option value="2">2020-04</option>
+              <option value="2">2020-05</option>
+              <option value="2">2020-06</option>
+              <option value="2">2020-07</option>
+              <option value="2">2020-08</option>
+              <option value="2">2020-09</option>
+              <option value="2">2020-10</option>
+              <option value="2">2020-11</option>
+            </select>
+        </div>
+      </div>
+    </div>
+    <!-- Sección de 1 renglon y 4 columnas para colocar el resto de los combos -->
+    <div class="row m-4">
+      <div class="col">
+        <div class="card text-white bg-success" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Province</h5>
+            <select name = "f-province" class="form-select" id="f-province">
+              <option selected>Canada</option>
+              <option value="1">Alberta</option>
+              <option value="2">Ontario</option>
+              <option value="3">Quebec</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card text-white bg-success" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Vehicle Type</h5>
+            <select name = "f-vectype" class="form-select" id="f-vectype">
+              <option selected>All types</option>
+              <option value="1">Canada</option>
+              <option value="2">Japan</option>
+              <option value="3">Others</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card text-white bg-success" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Origin Manufacture</h5>
+            <select name = "f-orman" class="form-select" id="f-orman">
+              <option selected>Canada</option>
+              <option value="1">USA</option>
+              <option value="2">Japan</option>
+              <option value="3">Others</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <!-- <div class="col">
+        <div class="card text-white bg-success" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Units</h5>
+            <select name = "f-units" class="form-select" id="f-units">
+              <option selected>Dollas</option>
+              <option value="1">Items</option>
+            </select>
+          </div>
+        </div>
+      </div> -->
+    </div>
+
+    <!-- Seccion para presentar el boton Submit -->
+    <div class="card text-white">
+      <div class="card-body"> 
+        <div class="d-grid gap-2 col-3 mx-auto">
+          <button id = "filter-btn" class="btn btn-secondary btn-sm" type="submit">Submit</button>
+          <!-- <button type="submit"  class="btn btn-secondary btn-sm" onClick="refreshPage()"><p class="text-center text-primary font-weight-bold"></p>Click to Refresh</p></button> -->
+          <button type="submit"  class="btn btn-secondary btn-sm" onClick="refreshPage()">Click to Refresh</button>
+        </div>
+      </div>
+    </div> 
+    
+    <!-- Sección del renglon donde pondremos las dos gráficas -->
+    
+    <div class="row">
+      <div class="col-xl-6">
+          <div class="card mb-4">
+              <div class="card-header">
+                  <i class="fas fa-chart-area mr-1"></i>
+                 Units
+              </div>
+              <div class="card-body"><canvas id="myAreaChart" width="100%" height="40"></canvas></div>
+          </div>
+      </div>
+      <div class="col-xl-6">
+          <div class="card mb-4">
+              <div class="card-header">
+                  <i class="fas fa-chart-bar mr-1"></i>
+                  Dollars
+              </div>
+              <div class="card-body"><canvas id="myBarChart" width="100%" height="40"></canvas></div>
+          </div>
+      </div>
+    </div>
+
+
+    <!-- Sección del renglon donde pondremos la tabla -->
+    <div class="card text-white bg-primary">
+      <div class="card-body"> <h2>Table Canada Vehicles Sales</h2>
+        <h5 class="card-subtitle text-white">From: July,2020 to: November,2020</h5>
+      </div>
+    </div>  
+    <div class="row m-1">
+      <!-- Sección de la columna 1 donde va la tabla -->
+      <div class="col" style="width: 50rem;">
+        <!-- Sección de la tabla -->
+        <table class="table">
+          <thead>
+            <!-- Podemos utiliza esta sección para poblar los parametros de fechas -->
+            <!-- de acuerdo a la selección del combo -->
+            <!-- <h5> From: July,2020 to: November,2020</h3><br> -->
+            <tr>
+              <th scope="col">Province</th>
+              <th scope="col">Vehicle Type</th>
+              <th scope="col">Origin Manufact</th>
+              <th scope="col">Sales Dollar</th>
+              <th scope="col">Sales Units</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- <tr>
+              <td>Quebec</td>
+              <td>Passenger Car</td>
+              <td>Canada</td>
+              <td>$82,300</td>
+            </tr>
+            <tr>
+              <td>Quebec</td>
+              <td>Passenger Car</td>
+              <td>Japan</td>
+              <td>$12,300</td>
+            </tr>
+            <tr>
+              <td>Quebec</td>
+              <td>Passenger Car</td>
+              <td>Others</td>
+              <td>$22,670</td>
+            </tr> -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Make link to JS-->
+  <script src= "static/js/Canada_logic.js"></script>
+  <script src= "static/js/app.js"></script>
+  <!-- <script src= "static/js/graph_logic.js"></script> -->
+  <!-- <script src= "static/js/app.py"></script>
+  <!-- API key -->
+  <script type="text/javascript" src="config.js"></script>
+  <!-- JS -->
+  <!-- <script type="text/javascript" src="logic4.js"></script> -->
+</body>
+</html>
+
