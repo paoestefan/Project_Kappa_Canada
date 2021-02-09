@@ -4,9 +4,19 @@ from sqlalchemy import create_engine
 
 app = Flask(__name__, template_folder='.')
 
+
 @app.route("/")
 def index():
     return render_template("index.html")
+
+@app.route("/Canada_data")
+def Canada_data():
+    Canada_data = pd.read_json('canada.geojson')
+
+    return (
+        Canada_data
+        .to_json(orient="records")
+    )
 
 @app.route("/api_data")
 def api_data():
